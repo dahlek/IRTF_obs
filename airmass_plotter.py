@@ -10,7 +10,6 @@ To do: could make x-axis more intuitive with better time labels.
 Emma Dahl, 2/22/2023
 '''
 
-
 from astroquery.jplhorizons import Horizons
 import numpy as np
 import matplotlib.pyplot as plt
